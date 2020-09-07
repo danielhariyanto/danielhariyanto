@@ -21,6 +21,7 @@ In my spare time, I avidly
 I conduct biophysics & DNA nanotech experimental research on liquid liquid phase separation at the [Rogers Lab](http://www.rogers-lab.com/) using nanostructures called DNA nanostars. I often use Python to construct models, graphs, and calculations to complement my research. More info [here](https://github.com/danielhariyanto/SummerResearch).
 
 
+
 ## Hackathons
 I enjoy meeting passionate, like-minded people at hackathons and creating innovative, easily implementable tech solutions to current problems. Check out the projects from previous hackathons:
 - [MedHacks 2020](https://devpost.com/software/mobile-memories) 💉
