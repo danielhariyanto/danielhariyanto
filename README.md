@@ -3,8 +3,7 @@
 ## ABOUT ME
 I'm a sophomore at Brandeis University studying Computer Science 💻 and Biological Physics 🔬.
 
-I believe in the empowering capabilities of knowledge, and I embrace my opportunity as a scholar to constantly learn and grow in the hope of advancing my abilities and erudition at the intersectio
-n of research and tech. I am a passionate knowledge-seeker and a driven opportunity-chaser who aspires to use my experiences to benefit society.
+I believe in the empowering capabilities of knowledge, and I embrace my opportunity as a scholar to constantly learn and grow in the hope of advancing my abilities and erudition at the intersection of research and tech. I am a passionate knowledge-seeker and a driven opportunity-chaser who aspires to use my experiences to benefit society.
 
 In my spare time, I avidly
 - engage in hackathons 👨‍💻
