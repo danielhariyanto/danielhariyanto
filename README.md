@@ -10,9 +10,9 @@ In my spare time, I avidly engage in hackathons 👨‍💻, fly light aircraft 
 ### Computer Science
 Programming Languages: Java (2 yrs), Python (1 yr), JavaScript (1/2 yr), C++ (1/2 yr), R (1/2 yr)
 
-Full Stack Development:
--	Front-end Languages: HTML (1 yr), CSS (1 yr), JavaScript (1 yr), React (1/2 yr), React Native (1/2 yr)
--	Back-end Languages: Flask (1 yr), SQL (1/2 yr), PHP (1/2 yr), ArangoDB (1/2 yr)
+Front-end Languages: HTML (1 yr), CSS (1 yr), JavaScript (1 yr), React (1/2 yr), React Native (1/2 yr)
+
+Back-end Languages: Flask (1 yr), SQL (1/2 yr), PHP (1/2 yr), ArangoDB (1/2 yr)
 
 Techniques: artificial intelligence (1/2 yr), machine learning (1/2 yr), statistical programming (1 yr), data visualization (1 yr), natural language processing (1/2 yr), optical character recognition (1/2 yr), object recognition (1/2 yr), microprocessor technology (1/2 yr)
 
