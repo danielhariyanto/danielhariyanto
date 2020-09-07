@@ -1,4 +1,4 @@
-# Hi there <img src="https://raw.githubusercontent.com/danielhariyanto/danielhariyanto/master/assets/wave.gif" width="30px">, I'm [Daniel](https://www.linkedin.com/in/danielhariyanto/)!
+# Hi there <img src="https://github.com/danielhariyanto/danielhariyanto/blob/master/assets/wave.gif" width="30px">, I'm [Daniel](https://www.linkedin.com/in/danielhariyanto/)!
 
 ## ABOUT ME
 I'm a sophomore at Brandeis University studying Computer Science 💻 and Biological Physics 🔬.
