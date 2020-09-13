@@ -21,6 +21,7 @@ I conduct biophysics & DNA nanotech experimental research on liquid liquid phase
 
 ## HACKATHON PROJECTS
 I enjoy meeting passionate, like-minded people at hackathons and creating innovative, easily implementable tech solutions to current problems. Check out the projects from previous hackathons:
+- [BostonHacks 2020](https://devpost.com/software/corona-diaries)
 - [MedHacks 2020](https://devpost.com/software/mobile-memories) 💉
 - [Garuda Hacks 2020](https://devpost.com/software/optimaloc) 🦅
 - [DeisHacks 2020](https://docs.google.com/presentation/d/1Czi1dbYC9WeTe2Apjs4FEQGBsBYgQ8jrTMSZpkKf1Q4/edit) 🏢
