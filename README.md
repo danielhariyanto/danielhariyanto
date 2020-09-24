@@ -1,4 +1,5 @@
 # Hi there 👋, I'm [Daniel](https://www.linkedin.com/in/danielhariyanto/)!
+## Check out my [LinkedIn](https://www.linkedin.com/in/danielhariyanto/)
 
 ## ABOUT ME
 I'm a sophomore at Brandeis University studying Computer Science 💻 and Biological Physics 🔬.
@@ -9,8 +10,6 @@ In my spare time, I avidly
 - engage in hackathons 👨‍💻
 - compose music 🎹
 - fly light aircraft at the nearby Hanscom Airfield ✈️
-
-<b>Check out my [LinkedIn](https://www.linkedin.com/in/danielhariyanto/)</b>
 
 #### Computer Science
 - Programming Languages: Java (2 yrs), Python (1 yr), JavaScript (1/2 yr), C++ (1/2 yr), R (1/2 yr)
