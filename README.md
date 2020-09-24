@@ -10,6 +10,8 @@ In my spare time, I avidly
 - compose music 🎹
 - fly light aircraft at the nearby Hanscom Airfield ✈️
 
+<b>Check out my [LinkedIn](https://www.linkedin.com/in/danielhariyanto/)</b>
+
 #### Computer Science
 - Programming Languages: Java (2 yrs), Python (1 yr), JavaScript (1/2 yr), C++ (1/2 yr), R (1/2 yr)
 - Full Stack Experience: HTML (1 yr), CSS (1 yr), JavaScript (1 yr), React (1/2 yr), React Native (1/2 yr), Flask (1 yr), Node.js (1/2 yr), SQL (1/2 yr), MongoDB, (1/2 yr), Google Cloud (1/2 yr), AWS (1/2 yr), AWS Lambda (1/2 yr), AWS S3 (1/2 yr)
