@@ -12,9 +12,9 @@ In my spare time, I avidly
 - fly light aircraft at the nearby Hanscom Airfield ✈️
 
 #### Computer Science
-- Programming Languages: Java (2 yrs), Python (1 yr), JavaScript (1/2 yr), C++ (1/2 yr), R (1/2 yr)
-- Full Stack Experience: HTML (1 yr), CSS (1 yr), JavaScript (1 yr), React (1/2 yr), React Native (1/2 yr), Flask (1 yr), Node.js (1/2 yr), SQL (1/2 yr), MongoDB, (1/2 yr), Google Cloud (1/2 yr), AWS (1/2 yr), AWS Lambda (1/2 yr), AWS S3 (1/2 yr)
-- Techniques: artificial intelligence (1/2 yr), machine learning (1/2 yr), statistical programming (1 yr), data visualization (1 yr), natural language processing (1/2 yr), optical character recognition (1/2 yr), object recognition (1/2 yr), microprocessor technology (1/2 yr)
+- Programming Languages: Java (2 yrs), Python (1 yr), JavaScript (1/2 yr), C++ (1/2 yr)
+- Full Stack: HTML/CSS, JavaScript, Flask, Node.js, SQL, MongoDB, React, React Native, Google Cloud, AWS
+- Techniques: statistical programming, data visualization, microprocessor technology, natural language processing, machine learning
 
 #### Biological Physics
 I conduct biophysics & DNA nanotech experimental research on liquid liquid phase separation at the [Rogers Lab](http://www.rogers-lab.com/) using nanostructures called DNA nanostars. I often use Python to construct models, graphs, and calculations to complement my research. More info [here](https://github.com/danielhariyanto/SummerResearch).
