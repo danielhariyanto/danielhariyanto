@@ -22,7 +22,13 @@ I conduct biophysics & DNA nanotech experimental research on liquid liquid phase
 ## HACKATHON PROJECTS
 I enjoy meeting passionate, like-minded people at hackathons and creating innovative, easily implementable tech solutions to current problems. Check out the projects from previous hackathons:
 - [BostonHacks 2020](https://devpost.com/software/corona-diaries) 🌆
+    - Created web app using React, Node.js, and AWS Lambda that saves audio diaries and runs a sentiment analysis using AWS’s NLP libraries to predict the user's general mood trends and establish a "mental health status" based on these data over time
+    - Designed sentiment analysis in the backend that successfully transcribes audio with >98% accuracy and rates the transcribed audio based on how positive, negative, neutral, or mixed it is, using AWS Transcribe, Comprehend, and S3
 - [MedHacks 2020](https://devpost.com/software/mobile-memories) 💉
+    - Created mobile app using React Native, Python, and Google Cloud’s ML & NLP libraries that analyzes linguistic metrics in speech to check for early signs of dementia, making dementia screening more accessible and cheaper for users wherever they are
+    - Designed and trained machine learning model using actual audio datasets of people living with dementia from DementiaBank
 - [Garuda Hacks 2020](https://devpost.com/software/optimaloc) 🦅
-- [DeisHacks 2020](https://docs.google.com/presentation/d/1Czi1dbYC9WeTe2Apjs4FEQGBsBYgQ8jrTMSZpkKf1Q4/edit) 🏢
+    - Created web app using Angular.js and Python that identifies the optimal locations for nutrition centers in an area for maximum outreach to aid the Indonesian government and health organizations combat stunted growth in rural areas in Indonesia
+    - Designed an algorithm that calculates the most optimal locations for a given number of nutrition centers in a rural area of villages using k-means clustering and additionally computes the number of healthcare workers to man each center based on population density
 - [Codestellation 2019](https://devpost.com/software/modus-rjot30) 🌌
+    - Created a review system, using web scraping of popular review websites like Glassdoor and using natural language processing of each individual review based on a sentiment intensity analyzer, to provide a more accurate means to capture job experience than conventional subjective 5-star ratings
