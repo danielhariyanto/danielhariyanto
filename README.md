@@ -2,9 +2,9 @@
 ### Check out my [LinkedIn](https://www.linkedin.com/in/danielhariyanto/)
 
 ## ABOUT ME
-I'm a sophomore at Brandeis University studying Computer Science 💻 and Biological Physics 🔬.
+I'm a sophomore at Brandeis University studying Computer Science 💻 and Biophysics 🔬, minoring in Math and Linguistics.
 
-I believe in the empowering capabilities of knowledge, and I embrace my opportunity as a scholar to constantly learn and grow in the hope of advancing my abilities and erudition at the intersection of research and tech. I am a passionate knowledge-seeker and a driven opportunity-chaser who aspires to use my experiences to benefit society.
+I believe in the empowering capabilities of knowledge, and I embrace my opportunity as a scholar to constantly learn and grow in the hope of advancing my abilities and erudition at the intersection of research and tech. I am a passionate knowledge-seeker and a driven opportunity-chaser who aspires to use my experiences to create impact through tech.
 
 In my spare time, I avidly
 - engage in hackathons 👨‍💻
@@ -12,12 +12,13 @@ In my spare time, I avidly
 - fly light aircraft at the nearby Hanscom Airfield ✈️
 
 #### Computer Science
-- Programming Languages: Java (2 yrs), Python (1 yr), JavaScript (1/2 yr), C++ (1/2 yr)
-- Full Stack: HTML/CSS, JavaScript, Flask, Node.js, SQL, MongoDB, React, React Native, Google Cloud, AWS
-- Techniques: statistical programming, data visualization, microprocessor technology, natural language processing, machine learning
+- Programming Languages: Java (2.5 yrs), Python (2 yrs), JavaScript (1 yr), C++ (0.5 yrs)
+- Full Stack: HTML, CSS, JavaScript, Flask, Node.js, SQL, MongoDB, React, React Native, PHP, Ruby on Rails, Serverless
+- Technologies: Google Cloud, AWS, Git, NumPy, PANDAS, Matplotlib, SciPy, Scikit-learn, TensorFlow, PyTorch, Jest
+- Techniques: artificial intelligence, machine learning, deep learning, big data analysis, statistical programming, data visualization
 
-#### Biological Physics
-I conduct biophysics & DNA nanotech experimental research on liquid liquid phase separation at the [Rogers Lab](http://www.rogers-lab.com/) using nanostructures called DNA nanostars. I often use Python to construct models, graphs, and calculations to complement my research. More info [here](https://github.com/danielhariyanto/SummerResearch).
+#### Biophysics
+I conduct biophysics & DNA nanotech experimental research on liquid-liquid phase separation at the [Rogers Lab](http://www.rogers-lab.com/) using nanostructures called DNA nanostars. I often use Python to construct models, graphs, and calculations to complement my research. More info [here](https://github.com/danielhariyanto/SummerResearch).
 
 ## HACKATHON PROJECTS
 I enjoy meeting passionate, like-minded people at hackathons and creating innovative, easily implementable tech solutions to current problems. Check out the projects from previous hackathons:
