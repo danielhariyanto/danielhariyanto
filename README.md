@@ -3,6 +3,7 @@
 
 ## ABOUT ME
 I'm a sophomore at Brandeis University studying Computer Science 💻 and Biophysics 🔬, minoring in Math and Linguistics.
+Relevant courses: Advanced Programming Techniques in Java, Data Structures & Algorithms, Fundamentals of Artificial Intelligence (AI), Practical Machine Learning with Big Data, Deep Learning, Software Engineering Capstone Project, Discrete Math, Applied Linear Algebra, Multivariable Calculus
 
 I believe in the empowering capabilities of knowledge, and I embrace my opportunity as a scholar to constantly learn and grow in the hope of advancing my abilities and erudition at the intersection of research and tech. I am a passionate knowledge-seeker and a driven opportunity-chaser who aspires to use my experiences to create impact through tech.
 
