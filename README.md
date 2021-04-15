@@ -2,9 +2,9 @@
 ### Check out my [LinkedIn](https://www.linkedin.com/in/danielhariyanto/)
 
 ## ABOUT ME
-I'm a sophomore at Brandeis University studying Computer Science 💻 and Biophysics 🔬, minoring in Math and Linguistics.
+I'm a sophomore at Brandeis University studying Computer Science and Applied Math, minoring in Business.
 
-<b>Relevant courses</b>: Advanced Programming Techniques in Java, Data Structures & Algorithms, Fundamentals of Artificial Intelligence (AI), Practical Machine Learning with Big Data, Deep Learning, Software Engineering Capstone Project, Discrete Math, Applied Linear Algebra, Multivariable Calculus
+<b>Relevant courses</b>: Advanced Programming Techniques in Java, Data Structures & Algorithms, Fundamentals of Artificial Intelligence (AI), Practical Machine Learning with Big Data, Deep Learning, Discrete Math, Applied Linear Algebra, Multivariable Calculus
 
 I believe in the empowering capabilities of knowledge. I embrace my opportunity as a scholar to advance my abilities and erudition at the intersection of research and tech. I am a passionate knowledge-seeker and a driven opportunity-chaser who aspires to use my experiences to create impact through innovation.
 
@@ -14,12 +14,14 @@ In my spare time, I avidly
 - fly light aircraft at the nearby Hanscom Airfield ✈️
 
 #### Computer Science
-- Programming Languages: Java (2.5 yrs), Python (2 yrs), JavaScript (1 yr), C++ (0.5 yrs)
+- Programming Languages: Python (expert), Java (expert), JavaScript (proficient), C++ (proficient)
 - Full Stack: HTML, CSS, JavaScript, Flask, Node.js, SQL, MongoDB, React, React Native, PHP, Ruby on Rails, Serverless
 - Technologies: Google Cloud, AWS, Git, NumPy, PANDAS, Matplotlib, SciPy, Scikit-learn, TensorFlow, PyTorch, Jest
 - Techniques: artificial intelligence, machine learning, deep learning, big data analysis, statistical programming, data visualization
 
-#### Biophysics
+#### Research
+While pursuing CS and Applied Math, I am also involved in biophysics research. I am currently an NSF-funded undergraduate research fellow at the NSF Materials Research Science & Engineering Center based at Brandeis, where I conduct DNA nanotech research. I utilize my strong scientific and analytical research background to complement my skills as an AI and software engineer.
+
 I conduct biophysics & DNA nanotech experimental research on liquid-liquid phase separation at the [Rogers Lab](http://www.rogers-lab.com/) using nanostructures called DNA nanostars. I often use Python to construct models, graphs, and calculations to complement my research. More info [here](https://github.com/danielhariyanto/SummerResearch).
 
 ## HACKATHON PROJECTS
