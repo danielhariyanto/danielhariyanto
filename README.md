@@ -2,7 +2,7 @@
 ### Check out my [LinkedIn](https://www.linkedin.com/in/danielhariyanto/)
 
 ## ABOUT ME
-I'm a sophomore at Brandeis University studying Computer Science and Applied Math, minoring in Business.
+I'm a junior at Brandeis University studying Computer Science and Applied Math, minoring in Business.
 
 <b>Relevant courses</b>: Advanced Programming Techniques in Java, Data Structures & Algorithms, Fundamentals of Artificial Intelligence (AI), Practical Machine Learning with Big Data, Deep Learning, Discrete Math, Applied Linear Algebra, Multivariable Calculus
 
