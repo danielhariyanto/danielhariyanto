@@ -1,6 +1,5 @@
 # Hi there 👋, I'm [Daniel](https://www.linkedin.com/in/danielhariyanto/)!
-### Check out my [personal website](https://danielhariyanto.github.io/)
-### Check out my [LinkedIn](https://www.linkedin.com/in/danielhariyanto/)
+## Check out my [personal website](https://danielhariyanto.github.io/)
 
 ## ABOUT ME
 I'm a junior at Brandeis University studying Computer Science and Applied Math, minoring in Business.
