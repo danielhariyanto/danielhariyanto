@@ -11,7 +11,7 @@ In my spare time, I avidly
 - compose music 🎹
 - fly light aircraft at the nearby Hanscom Airfield ✈️
 
-#### Computer Science
+### Computer Science
 <b>Skills</b>:
 - Programming Languages: Python (expert), Java (expert), JavaScript (proficient), C++ (intermediate)
 - Full-Stack Frameworks: React.js, Next.js, Vue.js, Nuxt.js, React Native, Redux, Node.js, Express.js, MERN/MEVN Stack, Flask, Django
@@ -22,7 +22,7 @@ In my spare time, I avidly
 
 <b>Relevant courses</b>: Advanced Programming Techniques in Java, Data Structures & Algorithms, Operating Systems, Fundamentals of AI, Deep Learning, Practical ML with Big Data, Numerical Methods, Discrete Math, Linear Algebra, Multivariable Calculus, Differential Equations, Probability, Statistics
 
-#### Research
+### Research
 While pursuing CS and Applied Math, I am also involved in biophysics research. I am currently an NSF-funded undergraduate research fellow at the NSF Materials Research Science & Engineering Center based at Brandeis, where I conduct DNA nanotech research. I utilize my strong scientific and analytical research background to complement my skills as an AI and software engineer.
 
 I conduct biophysics & DNA nanotech experimental research on liquid-liquid phase separation at the [Rogers Lab](http://www.rogers-lab.com/) using nanostructures called DNA nanostars. I often use Python to construct models, graphs, and calculations to complement my research. More info [here](https://github.com/danielhariyanto/SummerResearch).
