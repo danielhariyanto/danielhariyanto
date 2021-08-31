@@ -2,7 +2,7 @@
 #### Check out my [personal website](https://danielhariyanto.github.io/)
 
 ## ABOUT ME
-I study Computer Science and Applied Math, minoring in Business, at Brandeis University (Class of 2023). Currently, I'm interning as a software engineer at [PayPal](http://paypal.com/). Prior to PayPal, I have worked at multiple tech startups based in the US and Israel, namely [TapTapes](https://www.taptapes.com/), [Vibo](https://vibodj.com/), and [AgroFides](https://www.agrofides.com/).
+I'm studying Computer Science and Applied Math, minoring in Business, at Brandeis University (Class of 2023). Currently, I'm interning as a software engineer at [PayPal](http://paypal.com/). Prior to PayPal, I have worked at multiple tech startups based in the US and Israel, namely [TapTapes](https://www.taptapes.com/), [Vibo](https://vibodj.com/), and [AgroFides](https://www.agrofides.com/).
 
 I am passionate about creating scalable impact via digital innovation. Through my past technical internships and hackathons, I have been exposed to a wide breadth of AI & software technologies which I have used to build impactful humanitarian projects in my spare time, like [Mobile Memory](https://mobilememory.app/). These opportunities have cultivated me to become an effective technical leader and team player.
 
