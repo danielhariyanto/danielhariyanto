@@ -2,29 +2,26 @@
 #### Check out my [personal website](https://danielhariyanto.github.io/)
 
 ## ABOUT ME
-I'm studying Computer Science and Applied Math, minoring in Business, at Brandeis University (Class of 2023). Currently, I'm interning as a software engineer at [PayPal](http://paypal.com/). Prior to PayPal, I have worked at multiple tech startups based in the US and Israel, namely [TapTapes](https://www.taptapes.com/), [Vibo](https://vibodj.com/), and [AgroFides](https://www.agrofides.com/).
+I'm studying Computer Science and Applied Math, minoring in Business, at Brandeis University (Class of 2023). Currently, I'm interning as a product manager at [Microsoft](http://microsoft.com/). Prior to Microsoft, I interned as a software engineer at PayPal as well as at multiple tech startups based in the US and Israel, namely [Bevi](https://www.bevi.co/), [Mappo](https://mappo.world/), [SOLO](https://www.imsolo.ai/), [TapTapes](https://www.taptapes.com/), [Vibo](https://vibodj.com/), and [AgroFides](https://www.agrofides.com/).
 
-I am passionate about creating scalable impact via digital innovation. Through my past technical internships and hackathons, I have been exposed to a wide breadth of AI & software technologies which I have used to build impactful humanitarian projects in my spare time, like [Mobile Memory](https://mobilememory.app/). These opportunities have cultivated me to become an effective technical leader and team player.
+I am passionate about problem solving. I enjoy being challenged by the limitations within my environment and find passion transforming them into sources of inspiration and ideation. I'm a serial ideator who often finds himself building real-world-problem-solving software projects with fellow passionate students, or participating in weekend hackathons. This is how I founded what is now a MassChallenge healthtech startup that aims to provide inexpensive and accessible Alzheimer's screening to anyone with a smartphone (see [Mobile Memory](https://www.mobilememory.app/)).
 
-In my spare time, I avidly
-- engage in hackathons 👨‍💻
-- compose music 🎹
-- fly light aircraft at the nearby Hanscom Airfield ✈️
+Through my strong technical skills, together with my leadership and management skills, I aspire to continue creating scalable impact via digital innovation in the future. I aim to work with mission-driven companies to build user-centric products that solve real-world challenges communities are facing or will face in the future.
 
 ### Computer Science
 <b>Skills</b>:
-- Programming Languages: Python (expert), Java (expert), JavaScript (proficient), C++ (intermediate)
-- Full-Stack Frameworks: React.js, Next.js, Vue.js, Nuxt.js, React Native, Redux, Node.js, Express.js, MERN/MEVN Stack, Flask, Django
-- Databases: MongoDB, MySQL, PostgreSQL, SQLAlchemy, SQLite, Google Cloud Storage, AWS S3, GraphQL, REST API
-- DevOps: GitLab, Docker, Kubernetes, Jenkins, Google Cloud Platform, AWS, Selenium
-- Machine Learning: CUDA, NumPy, Pandas, Matplotlib, SciPy, Scikit-learn, PyTorch, TensorFlow, Keras, Gensim, NLTK
-- Tools/Technologies: Git/GitHub, Unix/Linux, shell scripting, web scraping, Jest.js, Mocha.js, unit/functional/integration testing
+- Programming Languages: Python (expert), Java (expert), JavaScript (expert), C++ (intermediate)
+- Full-Stack Frameworks: React.js, Vue.js, React Native, Flask, Django, Node.js, Spring, Next.js, Nuxt.js, Express.js, MERN/MEVN Stack
+- Databases: MySQL, PostgreSQL, SQLAlchemy, SQLite, MongoDB, Cloud Firestore, Google Cloud Storage, Amazon S3
+- DevOps: GitLab, Heroku, Docker, Kubernetes, Jenkins, Google Cloud Platform, Google Firebase, AWS, Serverless, Selenium
+- Machine Learning: CUDA, NumPy, Pandas, Matplotlib, Plotly, SciPy, Scikit-learn, PyTorch, TensorFlow, Keras, Gensim, NLTK
+- Tools/Technologies: Git/GitHub, Unix/Linux, shell scripting, web scraping, GraphQL, REST API, Maven, Gradle, Grunt, Poetry, unit/integration testing
 
-<b>Relevant courses</b>: Advanced Programming Techniques in Java, Data Structures & Algorithms, Operating Systems, Fundamentals of AI, Deep Learning, Practical ML with Big Data, Numerical Methods, Discrete Math, Linear Algebra, Multivariable Calculus, Differential Equations, Probability, Statistics
+<b>Relevant courses</b>: Object-Oriented Programming, Data Structures & Algorithms, Operating Systems, Fundamentals of AI, Statistical Machine Learning, Deep Learning, Practical Machine Learning with Big Data, Numerical Methods and Big Data, Data Mining, Discrete Math, Linear Algebra, Multivariable Calculus, Differential Equations, Probability, Statistics, Mathematical Modeling
 
 ### Research
-While pursuing CS and Applied Math, I am also involved in biophysics research. I am currently an NSF-funded undergraduate research fellow at the NSF Materials Research Science & Engineering Center based at Brandeis, where I conduct DNA nanotech research. I utilize my strong scientific and analytical research background to complement my skills as an AI and software engineer.
+While pursuing CS and Applied Math, I was also involved in biophysics research. I was an NSF-funded undergraduate research fellow at the NSF Materials Research Science & Engineering Center based at Brandeis, where I conduct DNA nanotech research. I utilize my strong scientific and analytical research background to complement my skills as a software engineer and data/ML scientist.
 
-I conduct biophysics & DNA nanotech experimental research on liquid-liquid phase separation at the [Rogers Lab](http://www.rogers-lab.com/) using nanostructures called DNA nanostars. I often use Python to construct models, graphs, and calculations to complement my research. More info [here](https://github.com/danielhariyanto/SummerResearch).
+I conducted biophysics and DNA nanotech experimental research on liquid-liquid phase separation at the [Rogers Lab](http://www.rogers-lab.com/) using nanostructures called DNA nanostars. I often used Python to construct models, graphs, and calculations to complement my research. More info [here](https://github.com/danielhariyanto/summer-research-2020).
 
 ### For more info about me, check out my [personal website](https://danielhariyanto.github.io/)
