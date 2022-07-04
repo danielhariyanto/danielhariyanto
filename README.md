@@ -20,7 +20,7 @@ Through my strong technical skills, together with my leadership and management s
 <b>Relevant courses</b>: Object-Oriented Programming, Data Structures & Algorithms, Operating Systems, Fundamentals of AI, Statistical Machine Learning, Deep Learning, Practical Machine Learning with Big Data, Numerical Methods and Big Data, Data Mining, Discrete Math, Linear Algebra, Multivariable Calculus, Differential Equations, Probability, Statistics, Mathematical Modeling
 
 ### Research
-While pursuing CS and Applied Math, I was also involved in biophysics research. I was an NSF-funded undergraduate research fellow at the NSF Materials Research Science & Engineering Center based at Brandeis, where I conducted DNA nanotech experimental research. I studied liquid-liquid phase separation at the [Rogers Lab](http://www.rogers-lab.com/) using nanostructures called DNA nanostars. I often used Python to construct models, graphs, and calculations to complement my research. More info [here](https://github.com/danielhariyanto/summer-research-2020).
+While pursuing CS and Applied Math, I was also involved in biophysics research. I was an NSF-funded undergraduate research fellow at the NSF Materials Research Science & Engineering Center based at Brandeis, where I conducted DNA nanotech experimental research. I studied liquid-liquid phase separation at the [Rogers Lab](http://www.rogers-lab.com/) using nanostructures called DNA nanostars. I often used Python to construct models, graphs, and calculations to complement my research (more info [here](https://github.com/danielhariyanto/summer-research-2020)).
 
 I utilize my strong scientific and analytical research background to complement my skills as a software engineer and data/ML scientist.
 
