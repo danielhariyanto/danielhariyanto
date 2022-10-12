@@ -2,7 +2,7 @@
 #### Check out my [personal website](https://danielhariyanto.github.io/)
 
 ## ABOUT ME
-I'm studying Computer Science and Applied Math, minoring in Business, at Brandeis University (Class of 2023). Currently, I'm interning as a product manager at [Microsoft](http://microsoft.com/). Prior to Microsoft, I interned as a software engineer at [PayPal](https://paypal.com/) and several tech startups based in the US and Israel, namely [Bevi](https://www.bevi.co/), [Mappo](https://mappo.world/), [SOLO](https://www.imsolo.ai/), [TapTapes](https://www.taptapes.com/), [Vibo](https://vibodj.com/), and [AgroFides](https://www.agrofides.com/).
+I'm studying Computer Science and Applied Math, minoring in Business, at Brandeis University (Class of 2023). I interned as a product manager at [Microsoft](http://microsoft.com/). Prior to Microsoft, I interned as a software engineer at [PayPal](https://paypal.com/) and several tech startups based in the US and Israel, namely [Bevi](https://www.bevi.co/), [Mappo](https://mappo.world/), [SOLO](https://www.imsolo.ai/), [TapTapes](https://www.taptapes.com/), [Vibo](https://vibodj.com/), and [AgroFides](https://www.agrofides.com/).
 
 I am passionate about problem solving. I enjoy being challenged by the limitations within my environment and find passion transforming them into sources of inspiration and ideation. I'm a serial ideator who often finds himself building real-world-problem-solving software projects with fellow passionate students, or participating in weekend hackathons. This is how I founded what is now a MassChallenge healthtech startup that aims to provide inexpensive and accessible Alzheimer's screening to anyone with a smartphone (check out [Mobile Memory](https://www.mobilememory.app/)).
 
